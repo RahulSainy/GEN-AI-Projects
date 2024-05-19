@@ -1,4 +1,4 @@
-# Project Title
+# Simple Resume ATS Tracking
 
 ## Project Flow
 
