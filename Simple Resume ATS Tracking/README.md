@@ -1,4 +1,4 @@
-# Project Title
+# Simple Resume ATS Tracking
 
 ## Project Flow
 
@@ -7,7 +7,7 @@
 
 2. **API Response:** The extracted text is then sent to the Gemini API. The API processes the text and returns a response.
 
-3. **PyPDF2 to Text:** The PyPDF2 library is used to convert the PDF file into text. This text is then processed further.
+3. **PyPDF2 to Text:** The PyPDF2 library converts the PDF file into text. This text is then processed further.
 
 4. **Gemini Using:** The processed text is sent to the Gemini API for further analysis.
 
@@ -21,10 +21,10 @@
 
 ## Getting Started
 
-To get started with this project, clone the repository and install the required dependencies.
+To start this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/RahulSainy/GEN-AI-Projects.git
+cd Simple Resume ATS Tracking
 pip install -r requirements.txt
 streamlit run app.py
