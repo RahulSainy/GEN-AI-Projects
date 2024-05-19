@@ -42,15 +42,15 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 226.51851851851865,
-			"y": 405.8998628257887,
-			"lastActivityTimestamp": 1716095952605,
+			"x": -45.70517342739568,
+			"y": -106.44002923457332,
+			"lastActivityTimestamp": 1716098173648,
 			"meta": {}
 		},
 		{
 			"meta": {},
 			"id": "page:page",
-			"name": "Page 1",
+			"name": "Project Flow",
 			"index": "a1",
 			"typeName": "page"
 		},
@@ -75,7 +75,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1018,
+				"w": 798,
 				"h": 527
 			},
 			"insets": [
@@ -94,8 +94,11 @@
 			"isFocused": true,
 			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
+			"isHoveringCanvas": false,
+			"openMenus": [
+				"pages",
+				"page-menu"
+			],
 			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
@@ -110,7 +113,7 @@
 			"selectedShapeIds": [
 				"shape:SQogd0oMl6tWPf5-tFyMs"
 			],
-			"hoveredShapeId": "shape:zicspafSH2FtLU4QPwB2Q",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -120,9 +123,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 5.305898491083525,
-			"y": 78.32510288065839,
-			"z": 0.7290000000000001,
+			"x": 134.3719707361683,
+			"y": 182.1762519358166,
+			"z": 0.5413525858258436,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
