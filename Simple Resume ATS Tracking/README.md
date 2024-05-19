@@ -24,7 +24,7 @@
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone <[repository_url](https://github.com/RahulSainy/GEN-AI-Projects.git)>
+cd <Simple Resume ATS Tracking>
 pip install -r requirements.txt
 streamlit run app.py
